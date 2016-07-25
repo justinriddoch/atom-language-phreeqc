@@ -1,6 +1,6 @@
 {
   "name": "language-phreeqc",
-  "author": "Justin Riddoch <riddochj@gmail.com>",
+  "author": "justinriddoch <riddochj@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/justinriddoch/atom-language-phreeqc/"
