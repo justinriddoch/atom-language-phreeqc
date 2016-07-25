@@ -2,10 +2,11 @@
   "name": "language-phreeqc",
   "author": "justinriddoch <riddochj@gmail.com>",
   "repository": "https://github.com/justinriddoch/atom-language-phreeqc.git",
-  "keywords": ["phreeqc"],
+  "keywords": [
+    "phreeqc"
+  ],
   "license": "MIT",
-  "version": "0.1",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "PHREEQC language package for atom",
   "engines": {
     "atom": "*",
