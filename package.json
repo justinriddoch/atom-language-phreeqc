@@ -1,0 +1,9 @@
+{
+  "name": "language-phreeqc",
+  "version": "0.0.1",
+  "description": "Syntax highlighting for PHREEQC",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+}

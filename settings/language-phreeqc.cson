@@ -1,0 +1,4 @@
+'.source':
+  'editor':
+    'commentStart': '# '
+    'commentEnd': ''
